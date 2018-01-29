@@ -39,7 +39,7 @@ class PizzaOnline extends CI_Controller {
 		$this->load->view('pages/login');
 	}
 
-	public function signup\90{
+	public function signup(){
 		$this->load->view('includes/header');
 		$this->load->view('pages/signup');
 	}
