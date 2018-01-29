@@ -50,6 +50,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |		my-controller/my-method	-> my_controller/my_method
 */
 $route['login'] = 'pizzaonline/login';
+$route['signup'] = 'pizzaonline/signup';
 $route['about'] = 'pizzaonline/about';
 $route['contact'] = 'pizzaonline/contact';
 $route['home'] = 'pizzaonline/home';
